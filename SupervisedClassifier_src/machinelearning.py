@@ -67,9 +67,7 @@ class TextClassifier:
         self.X_train_vec = None
         self.X_test_vec = None
 
-    # ------------------------------------------------------------
-    # Data loading and splitting
-    # ------------------------------------------------------------
+    # Data loading and splitting  
 
     def load_data(self):
         """Load and check the cleaned CSV."""
@@ -145,9 +143,7 @@ class TextClassifier:
             print(f"  {label}: {count} samples")
         print()
 
-    # ------------------------------------------------------------
     # Vectorization
-    # ------------------------------------------------------------
 
     def vectorize_text(self):
         """Convert text to TF-IDF feature vectors."""
@@ -171,10 +167,9 @@ class TextClassifier:
         print(f"Feature matrix (test):  {self.X_test_vec.shape}")
         print(f"Number of features:     {len(self.vectorizer.get_feature_names_out())}\n")
 
-    # ------------------------------------------------------------
-    # Model training
-    # ------------------------------------------------------------
 
+    # Model training
+    
     def train_models(self):
         """
         Train several baseline classifiers.
@@ -228,9 +223,8 @@ class TextClassifier:
         except Exception as e:
             print(f"Random Forest training failed: {e}")
 
-    # ------------------------------------------------------------
     # Evaluation
-    # ------------------------------------------------------------
+
 
     def evaluate_models(self):
         """Evaluate all trained models on the test set."""
@@ -275,9 +269,7 @@ class TextClassifier:
 
         return True
 
-    # ------------------------------------------------------------
     # Saving and inference
-    # ------------------------------------------------------------
 
     def save_best_model(self):
         """Save the best model (by F1 score) and the TF-IDF vectorizer."""
@@ -324,9 +316,7 @@ class TextClassifier:
 
         return predictions, best_model_name
 
-    # ------------------------------------------------------------
     # Orchestration
-    # ------------------------------------------------------------
 
     def run_pipeline(self):
         """Run the full ML pipeline."""
@@ -368,7 +358,7 @@ class TextClassifier:
 if __name__ == "__main__":
     # Example usage:
     # csv_path should point to the cleaned dataset produced by the
-    # label normalization script (e.g. 'cleaned_dataset.csv').
+    # label normalization script (e.g. 'cleaned_dataset.csv' the silver_labels).
     classifier = TextClassifier(
         csv_path="cleaned_dataset.csv",
         test_size=0.2,
