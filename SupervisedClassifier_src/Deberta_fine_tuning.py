@@ -33,9 +33,13 @@ df = df[["text", "label"]].dropna().copy()
 df["text"] = df["text"].astype(str).str.strip()
 df = df[df["text"] != ""]
 
+# In the CSV, labels are stored as:
+#  - "fraud"          → corresponds to the "to attack" intent
+#  - "prevention"     → corresponds to the "to prevent" intent
+#  - "out_of_context" → corresponds to the out-of-context class
 label2id = {
-    "to_attack": 0,
-    "to_prevent": 1,
+    "fraud": 0,
+    "prevention": 1,
     "out_of_context": 2,
 }
 id2label = {v: k for k, v in label2id.items()}
