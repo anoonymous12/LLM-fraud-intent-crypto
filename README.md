@@ -67,4 +67,55 @@ This implementation is intended as a **baseline example**. Users are encouraged 
 
 Depending on the specific classification task and dataset characteristics, other classifiers (such as SVM, gradient boosting methods, or neural models) may yield better results.
 
+
+# Supervised Classifier (DeBERTa)
+
+The folder `SupervisedClassifier_src/` contains the training script for the transformer-based classifier:
+
+The script:
+
+1. Loads the silver dataset (`text`, `label`)
+2. Splits it into training and validation sets (80/20)
+3. Tokenizes text using DeBERTa-v3
+4. Fine-tunes the model with class weighting
+5. Applies early stopping
+6. Selects the best model based on macro F1
+7. Saves the trained model
+
+## Output
+
+The trained model and tokenizer are saved locally and can be reused for evaluation.
+
+Evaluation script is available in folder `Eval&datasets/`
+
+
+# Datasets
+
+## Gold evaluation splits
+
+The folder `Eval&datasets/` contains three manually annotated gold datasets:
+
+- `mixed_gold_intent_split_1_200.csv`
+- `mixed_gold_intent_split_2_200.csv`
+- `mixed_gold_intent_split_3_200.csv`
+
+Each file contains **200 samples** labeled by an expert according to intent.
+
+These splits are:
+- mutually disjoint  
+- not used during training  
+- used exclusively for evaluation  
+
+Each dataset contains the following columns:
+
+- `text`: input comment or post  
+- `gold_label`: ground-truth label  
+
+## Silver dataset
+
+The silver dataset is generated using the LLM annotation pipeline and is in the folder `Eval&datasets/'
+
+
 NOTE: Experimental results are reported in the paper.
+
+
