@@ -1,0 +1,347 @@
+﻿text,gold_label,source,pred_label,source_index
+Dust attacks try to de-anonymize you Don't interact with unknown small transactions.,prevention,prevent1.csv,,
+SafeRug token - name says it all Dev doxxed? No. Audit? No. Still people aped in. Smh.,fraud,scam_fraud1.csv,,
+Bought Ledger from Amazon third party Was tampered with. Pre-configured seed phrase included.,fraud,scam_fraud1.csv,,
+"@iamllanero check out @capdotfinance, everything with  emmisions.",out_of_context,twitter_ooc,out_of_context,194.0
+Look for 'abnormal candlestick patterns' Bots create unrealistic patterns.,prevention,prevent2.csv,,
+Revoke token approvals monthly Use revoke.cash or Etherscan's revoke tool. Old approvals can drain you.,prevention,prevent1.csv,,
+"@thedefiedge research time / privacy activity
+
+1) 2 wallet adress railgun (z1 &amp; z2)
+
+2 exchange &gt; matic or bnb &gt; go to railgun z1 wallet adress
+
+3)  &gt;move to z2
+
+4) unshield and move to metamask relay adress 
+
+it's a simple example. 
+
+infinite possibility.",fraud,twitter_fraud,fraud,476.0
+"@0xroboroscap @0xyakitori 4) about 40% of trading volume is through gem, while the trading volume maintains at $400-500k per day. it's not bad given that they give out  incentives.
+
+https://t.co/8oodt5ikv8 https://t.co/g6d3azoiku",out_of_context,twitter_ooc,out_of_context,161.0
+"every contribution increases the strength of the community, thus the term ""shield wall"". despite being underprivileged with our fair launch and /treasury allocation, a little goes a long way!",out_of_context,twitter_ooc,out_of_context,138.0
+Approved unlimited spending on a sketchy site They drained my USDC. Always set spending caps.,fraud,scam_fraud1.csv,,
+Contract allows blacklisting They can block you from selling. Ultimate rug control.,fraud,scam_fraud1.csv,,
+"@tferriss @cockpunch congrats! i was on the mint list, set my alarm at 3am to wake up for the mint, opened my laptop at 3:03, i saw  left 🥲",out_of_context,twitter_ooc,out_of_context,61.0
+@floordelhi nice good kill,out_of_context,twitter_ooc,out_of_context,137.0
+"its coming together!! we will all join forces and squash any and all scammers and ruggers. @torres1pr @phaltron @cryptop81983772 @shield_token @totallyarugpull @ledodovert and anyone else that wants in - #defidefenders rt, spread the word, we will end scams and rugs, one ata time",prevention,twitter_prevention,prevention,539.0
+@macnbtc well played. it's a  for sure.,out_of_context,twitter_ooc,out_of_context,89.0
+"@thatnodeguy it’s not an l_0 yet you dingbat. 
+
+and before you counter with “it should be a layer  by now”… why don’t you create a feeless network yourself if you think it’s that easy of a task?",out_of_context,twitter_ooc,out_of_context,156.0
+At least gold you can hold Crypto can disappear with a typo. Or a scam.,fraud,scam_fraud1.csv,,
+"@kujimonsta @kujikast who doesn't like free stuff am i right?
+
+what i like most about kujira is its goal of being #grownupdefi. it aims to be sustainable by implementing  inflation and relying solely on the fees the chain generates.
+
+also, the kujira team is top-notch.",out_of_context,twitter_ooc,out_of_context,186.0
+Initialize hardware wallet yourself Never use pre-initialized device.,prevention,prevent2.csv,,
+Exchange volume is completely fake No real users. Just bots.,fraud,scam_fraud2.csv,,
+I only invest after 3 days of research No exceptions. Saved me from 10+ scams.,prevention,prevent2.csv,,
+Wrote seed phrase on paper Roommate found it. Stole everything.,fraud,scam_fraud2.csv,,
+DNS over HTTPS prevents spoofing Harder for scammers to redirect you.,prevention,prevent1.csv,,
+Check sender email address carefully support@coinbase-security.com is fake. Real is @coinbase.com.,prevention,prevent1.csv,,
+"ct mindset:
+
+algo stablecoin with an unique minting process through arbitrage and with a reserve of 10b btc
+
+“bro, trust me, $ust is a scam and is going to zero”
+
+token airdropped to ape jpeg hodlers and negotiated with vcs
+
+“fuck, bro, sell your house, wife and kids and buy $ape",fraud,twitter_fraud,fraud,396.0
+"Altcoins are exit liquidity for VCs They pump, they dump on you.",fraud,scam_fraud2.csv,,
+Use 'flashbot' protection on trades Prevents MEV and front-running.,prevention,prevent2.csv,,
+If you're reading this and still not sure It's a scam. Save yourself the pain.,fraud,scam_fraud1.csv,,
+"@torres1pr @shield_token @empireinvest2 @cryptop81983772 @riseup_finllc @totallyarugpull @exotixtoken oh hey my homie can you convert whatever time you wanna do it to aest / gmt+10? i’d do it but i’m at work n not sposed to be on my phone lol big love brother, let us protect those that cannot protect themselves",prevention,twitter_prevention,prevention,555.0
+Save addresses in wallet address book Reduces chance of sending to wrong address.,prevention,prevent1.csv,,
+@lbank_exchange i request that you asking about this big dump in  to shield owner,fraud,twitter_fraud,fraud,513.0
+the  transfer scam,fraud,twitter_fraud,fraud,29.0
+Approved a contract without reading It was a drainer. All funds gone.,fraud,scam_fraud2.csv,,
+Consider ENS or Unstoppable Domains Human-readable addresses reduce sending errors.,prevention,prevent1.csv,,
+"if there is no business model for the token, there shouldn't be any. it was a big mistake of first-gen daos to turn governance into the product itself. many gov tokens are trending bitterly toward zero. token-weighted voting has no place outside defi.",out_of_context,twitter_ooc,out_of_context,173.0
+Check 'dead wallet' percentage High % burned = good sign.,prevention,prevent2.csv,,
+"@hgtpmjtr @ultra_wife phase 2 needs to test later s and complete third party audit. i think the q2 reference was into testing the dex layer  and liquidity pools, like ltx ads dag etc.",prevention,twitter_prevention,prevention,391.0
+Check if the project has a 'Vesting contract' on-chain Can verify team tokens are locked.,prevention,prevent2.csv,,
+"https://t.co/or7qce3tn2 has eliminated trading fees for spot ether trading. the move comes six months after the exchange cut fees for bitcoin trading to zero.
+
+https://t.co/l9khsgcqe3
+
+#token #coin #crypto #web3 #nft #bitcoin #eth #btc #cryptocurrencies",out_of_context,twitter_ooc,out_of_context,62.0
+Use honeypot.is and TokenSniffer Run tokens through these scanners before buying. Free and fast.,prevention,prevent1.csv,,
+Check if 'github' has 1 commit and 1000 stars Bought stars. Not real.,prevention,prevent2.csv,,
+@darwonboy @chorusxapp apparently our  has a current market cap of over $37 billion 🤷‍♂️ despite it being (nearly) completely worthless.,out_of_context,twitter_ooc,out_of_context,102.0
+Coin with no sell volume for a week Honeypot confirmed. You can't sell.,fraud,scam_fraud2.csv,,
+"YouTuber said this coin is ""undervalued"" It dumped 80% next day. He sold.",fraud,scam_fraud1.csv,,
+"Check if the project has 'hidden liquidity' On DexTools. If yes, they can rug.",prevention,prevent2.csv,,
+@aptoslaunchio @crew3xyz @aptoslabs i have  get,out_of_context,twitter_ooc,out_of_context,121.0
+Project with no website raised 200 ETH How is this allowed? Obvious honeypot.,fraud,scam_fraud1.csv,,
+Video of Elon promoting coin Deep fake. Look at the mouth movements.,fraud,scam_fraud1.csv,,
+Check if more tokens can be minted Infinite mint = infinite dilution = eventual dump.,prevention,prevent1.csv,,
+".@elonmusk how about token rewards for ppl who flag  scam/phishing accounts? ? 
+
+i've flagged 5 today already 🤷‍♂️",prevention,twitter_prevention,prevention,2085.0
+"with enouph manufactured reserve.. tcoin... i.e. .. 
+could offer ""currency stability"".. ""validity"" and ""hi-trust.. online transactions"".. i.e. similar to the pound &amp; the dollar.. in a volitile world. 
+twitter . t woman i tt eve r...
+tcoin matters ..no? https://t.co/mtpew13u9b",prevention,twitter_prevention,prevention,1868.0
+"@wazirxindia plz list jaiho crypto ...
+community day by day strong hote ja rhe he ...
+jaiho ka concept mujhe bahut accha lga baki project se ...
+full decentralisation he ... team ke pas  hold he ... sare community me distribut he",out_of_context,twitter_ooc,out_of_context,45.0
+"thanks to @stablekwon now $lunc is about to add another zero. token is going to trash. sell everything before is worth true zero!!! no burn at all, that means ""previous $luna holders go to hell!!!""",fraud,twitter_fraud,fraud,289.0
+Unverified contract = hidden code Don't trust unverified contracts.,prevention,prevent1.csv,,
+"participants of the  network will retain ownership of their funds, thereby eliminating the risk of default by third parties (prime brokers) in the event of bankruptcy. https://t.co/hy6xidgymm",prevention,twitter_prevention,prevention,2158.0
+"@aedcelectricity  hi. there's an outstanding on my meter. it's being paid for gradually. to my shock my account was debited after 2 transactions and *zero* token was sent to me twice. what could be the matter.
+: i need electricity.",fraud,twitter_fraud,fraud,226.0
+"we want to be sure there is a path to hold hhs accountable! hhs, cdc, &amp; federal offices host ongoing, robust engagement w/ patient-led communities bc implementation happens locally.  send in your feedback to the #vbdns rfi: https://t.co/5g7tnxrrtg #tbdwg # https://t.co/e0ekj6vn9r",prevention,twitter_prevention,prevention,2155.0
+"very good point!! need our advocacy!!
+what do you think @empireinvest2  #tarp @shield_token @cryptop81983772 @riseup_finllc join forces and destroy all scams!",prevention,twitter_prevention,prevention,559.0
+alex ryu joins the net  network (nztwork) sustainability-oriented cryptocurrency platform to help with rapid growth as a software scaling advisor https://t.co/hunefchpko,out_of_context,twitter_ooc,out_of_context,162.0
+Secure your email with hardware 2FA Email is recovery point for many accounts.,prevention,prevent1.csv,,
+"🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+#feg (#gateio) kill one zero. 
+ token burn also exceeded 58.5% at once! 
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+#fegtoken @fegtoken
+#gotw #babydoge 
+#crypto #lunc #luna #usct https://t.co/lhvb6snm3r",out_of_context,twitter_ooc,out_of_context,133.0
+"@tweetingmole @longcovidadvoc @jenbrea please get properly tested for 
+lyme disease pathogens!
+cfs is a symptom of lyme. 
+https://t.co/fu5uj9smvl for proper testing. 
+
+https://t.co/azdzmcuik3 for viable treatment options. 
+
+fully fund 
+https://t.co/sjr3bqh8c5
+
+ #lyme
+#lymedisease
+#bitten
+#bioweapon
+#underourskin",prevention,twitter_prevention,prevention,2252.0
+My son clicked a Discord link Drained his whole wallet. He's 14.,fraud,scam_fraud2.csv,,
+Facebook group with 50k members All fake accounts. One admin scamming everyone.,fraud,scam_fraud1.csv,,
+"@ming1supremacy choose your character...
+● stay. attack: the spicy sriracha blast. shield: big3 privilege.
+● nevie. attack: plagiarism. shield: the mysoginy card.
+● engene. attack: the delusion trick. shield: lipsyncing
+● nswer. attack: ear-drum destroying songs. shield: token-stanning 🤭",fraud,twitter_fraud,fraud,463.0
+"the $ is a mystery for now, but one idea could be for an $xshield or $vlshield instance where stakers receive a proportional amount of fees/bribes for protocol locked $xcal tokens.",prevention,twitter_prevention,prevention,458.0
+"@hexrayvision @jamesowatonna @wolverine_2241 @koshenthemurloc i'm getting 40% apy staking with a 2 week lock. the yield from that came from team buybacks using eth from the buy and sell tax,  inflation just weak hands being rehypothecated.",fraud,twitter_fraud,fraud,55.0
+"@dboragrace @johngh87 i have , please help me with any amount",out_of_context,twitter_ooc,out_of_context,110.0
+I click phishing links on purpose in a VM To learn. Safe environment.,prevention,prevent2.csv,,
+Get a YubiKey for exchange 2FA Hardware 2FA is the strongest. Phishing resistant.,prevention,prevent1.csv,,
+@lilmoonlambo $ is shorting stables and earning reflections dont fade this low mcap gem #100xgem #whalealert,fraud,twitter_fraud,fraud,312.0
+Scam messages often have bad grammar Legit companies hire professional writers. Typos and weird phrasing are red flags.,prevention,prevent1.csv,,
+"@crypt0forchange @mrbagsalgo can't believe you're just giving money to support bike club giveaways.  algo is going to zero.  token inflation, incompetence, bikes and drones. blah, blah, blah.  (don't mind me i'm just jealous that i got a lot less algos for more money this summer)",out_of_context,twitter_ooc,out_of_context,42.0
+"Fake Coinbase employee called me Said my account was hacked and needed to ""move funds to safe wallet"".",fraud,scam_fraud1.csv,,
+"vault wallet
+
+this wallet should only transfer assets to and from your other wallets.
+this is for assets that you’re going to hold for a long time and/or are especially valuable.
+there should be  approvals for this wallet.
+confirm this  on https://t.co/lkfafdpsum",prevention,twitter_prevention,prevention,200.0
+"Check 'sell tax' vs 'buy tax' If sell tax > buy tax, you're trapped.",prevention,prevent2.csv,,
+"Website says 10% daily returns That's $36,500% APY. Insane.",fraud,scam_fraud1.csv,,
+@ells_crypto @spillthebeans86 @shield_token let's keep changing the defi space by making it a safer place!!!,prevention,twitter_prevention,prevention,561.0
+Don't scan QR codes from strangers QR can lead to malicious sites or hardcoded scam addresses.,prevention,prevent1.csv,,
+Consider Linux for large holdings Less malware than Windows or Mac.,prevention,prevent1.csv,,
+Fake Coinbase Pro app on App Store Apple removed it but not before 50 people got scammed.,fraud,scam_fraud1.csv,,
+"bottom-line:
+
+if you have  approvals set for a given wallet, then in theory signing a gasless tx from a wallet should be safe
+
+is it still a bad practice we should eliminate for ""vault""-grade wallets and replace with delegated wallet signing?
+
+absolutely",prevention,twitter_prevention,prevention,6.0
+Fake Trust Wallet support on Telegram They asked for my recovery phrase.,fraud,scam_fraud2.csv,,
+"truly fascinating article on #carbon #crypto #coin use case to save the world!!
+
+we at net  nztwork will be part of this emerging story so stay tuned as we create history.
+
+we are currently raising funds for professional…https://t.co/hglxcidt7p https://t.co/cssglme3nd",out_of_context,twitter_ooc,out_of_context,95.0
+@aptoslaunchio @aptoslabs @cryptocom i have  get,out_of_context,twitter_ooc,out_of_context,120.0
+PSA: How to spot a scam before you lose money Always check the URL twice. Scammers use typosquatting like coincase.com instead of coinbase.com.,prevention,prevent1.csv,,
+"steakhut liquidity 🐮+🌊📘
+
+steakhut's latest liquidity management solution allows for:
+• easy and automated concentrated lp'ing experience
+• protocols to have deep liquidity with  emissions",out_of_context,twitter_ooc,out_of_context,24.0
+"All these ""influencers"" promoting coins They get paid to dump on you. Not financial advice, it's fraud.",fraud,scam_fraud1.csv,,
+@johnnysaitama69 @saitamaguru1 @wearesaitama not wrong i add new saitama to my trust wallet i shows with,out_of_context,twitter_ooc,out_of_context,221.0
+"the  transfer scam via /r/cryptocurrency https://t.co/ygcivoytdc
+
+🧑‍🚀💰💰
+if you wanna earn bitcoin and make massive passive income check out our profile! 
+🤑🤑🤑
+
+#btcprinter #btc #bitcoin #eth #crypto #nft #avax #trending",fraud,twitter_fraud,fraud,30.0
+All these lending platforms are scams They all collapsed. All of them.,fraud,scam_fraud2.csv,,
+Fake projects claim fake partnerships Contact the partner directly to verify.,prevention,prevent1.csv,,
+"Look at liquidity depth, not just market cap Low liquidity means high slippage and easier manipulation.",prevention,prevent1.csv,,
+Token with 100% tax on sells You can never exit. It's a trap.,fraud,scam_fraud2.csv,,
+Fake MetaMask extension on Chrome store Same name. Different publisher. Check before installing.,fraud,scam_fraud1.csv,,
+@aptoslaunchio @aptosecosystems @web_3space @aptosbuii i have  get,out_of_context,twitter_ooc,out_of_context,122.0
+"this week is #bridgesexchange trading week!
+
+✅4x winners/day: 25 $busd to 4txns of $25+
+✅dividend fee reduced 97%
+✅ fees on $brg.x
+✅boost brg.x dividends w/ direct staking launching tomorrow!
+
+ready to share the news? try our templates: https://t.co/1s5l6r67gw #defi https://t.co/ohmilwwfww",out_of_context,twitter_ooc,out_of_context,235.0
+@sadafjadran reported them to bbb and sec. and all they had to do was honer my  for relay.  to late now.,fraud,twitter_fraud,fraud,413.0
+Bought a token with locked liquidity But dev still has mint function. Not safe.,fraud,scam_fraud1.csv,,
+Use Bitwarden with 2FA enabled Cloud sync but encrypted.,prevention,prevent2.csv,,
+Instagram crypto trader with 500k followers He's selling a 'signal group' for 1 ETH.,fraud,scam_fraud2.csv,,
+Approved a contract on Gnosis Chain Lost my xDAI. Always verify contracts.,fraud,scam_fraud2.csv,,
+"Real airdrops don't need approval If it asks for approval, it's a drainer.",prevention,prevent1.csv,,
+"have you seen tickula today? funeducate kids on tick awareness by downloading free #teacher plans https://t.co/jevi3pjww9 or find comic books in your local free library. team @natcaplyme submitted this winning solution to the 2021  education &amp; awareness “healthathon."" https://t.co/f3w8k50mr1",prevention,twitter_prevention,prevention,2370.0
+Check if Telegram group has real members Member count means nothing. Look at active conversation.,prevention,prevent1.csv,,
+Use VirusTotal to check every link Paste any suspicious URL. Free scan.,prevention,prevent2.csv,,
+"""Mod"" in official Discord DMed me Fake. Real mods never DM first.",fraud,scam_fraud1.csv,,
+Fake Trader Joe site on Avalanche URL was traderjoe-exchange[.]net,fraud,scam_fraud2.csv,,
+Look for 'price candles' that are identical Bots creating fake history. Real markets have variation.,prevention,prevent2.csv,,
+Check user history before trusting advice New accounts often promote scams.,prevention,prevent1.csv,,
+"@liuliu haha this  thing looks like a bug. oh well, the model was trained with it, so everyone has to do that now",out_of_context,twitter_ooc,out_of_context,67.0
+@edanyago @sovrynbtc should have listed zero as separate token. this way you could have atleast let folks recover sov losses. now - in current situation - no  and sov will continue to drop. loss-loss for everyone,fraud,twitter_fraud,fraud,177.0
+alex ryu joins the net  network (nztwork) sustainability-oriented cryptocurrency platform to help with rapid growth as a software scaling advisor https://t.co/kutixung60 #cryptolife #cryptocurrency,out_of_context,twitter_ooc,out_of_context,142.0
+"alex ryu joins the net  network (nztwork) sustainability-oriented cryptocurrency platform to help with rapid growth as a software scaling advisor
+
+https://t.co/hrc0sn4hwf https://t.co/hrc0sn4hwf",out_of_context,twitter_ooc,out_of_context,158.0
+i was dreaming to get one of @muratpak work via metamorphosis token and finally to enter this legend’s community. at the end of the day i have  but 250 $ash which dropped half of the price before mint. such a lucky(!) and clever(!) investor i am🤓🤦‍♂️,fraud,twitter_fraud,fraud,381.0
+"Use different wallets for different purposes Trading wallet, holding wallet, minting wallet. Limit exposure.",prevention,prevent1.csv,,
+Clicked ad on a crypto news site It was a fake Ledger ad. Drained.,fraud,scam_fraud2.csv,,
+Fake MetaMask support on Twitter They asked for my seed phrase to 'sync' my wallet.,fraud,scam_fraud2.csv,,
+@bytex_io reinvestment in the  💪😊,out_of_context,twitter_ooc,out_of_context,48.0
+"Celsius, BlockFi, Voyager... All the same. All scams.",fraud,scam_fraud2.csv,,
+LP tokens not burned on this token Dev can pull liquidity anytime.,fraud,scam_fraud2.csv,,
+"I have a 'scam checklist' on my wall 10 questions. If any red flag, I don't invest.",prevention,prevent2.csv,,
+"this is so true, the @financechainge team have  allocation + a quaterly burn of $chng makes the tokenomics highly appealing 
+#fintech #finserv #blockchain #security #web3 #defi #metaverse #innovation #crosschain #iot #crypto #interoperability #nftcommunity #ewallet https://t.co/y8g5dztscw",out_of_context,twitter_ooc,out_of_context,189.0
+"@ltrbttwt please i migrated my little rabbit token yesterday, it shows successful but it showing me  while it has taken away all my v1 token. please what i do?",out_of_context,twitter_ooc,out_of_context,181.0
+My daughter sent 0.5 BTC to a 'celebrity' She thought it was real. It wasn't.,fraud,scam_fraud2.csv,,
+Fake 1inch exchange URL was 1inch-exchange[.]io,fraud,scam_fraud2.csv,,
+@edomdog @sovrynbtc why would a separate  be worth more?,out_of_context,twitter_ooc,out_of_context,176.0
+"Spread risk across wallets If one compromised, not all lost.",prevention,prevent1.csv,,
+Create a 'scam word' list for your email filters Filter words like 'verify wallet' 'seed phrase' 'claim airdrop' straight to trash.,prevention,prevent2.csv,,
+Fake WiFi at coffee shop Connected to MetaMask. They intercepted everything.,fraud,scam_fraud1.csv,,
+"🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+#feg (#bsc) kill one zero. 
+ token burn also exceeded 58.5% at once! 
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+#fegtoken @fegtoken
+#gotw https://t.co/olvt5yfchx",out_of_context,twitter_ooc,out_of_context,134.0
+"Another day, another rug I'm getting too old for this.",fraud,scam_fraud2.csv,,
+Real projects have regular commits No commits in months = abandoned or fake.,prevention,prevent1.csv,,
+@kingboiwabi @arbitrum @layerzero_labs @celestiaorg @agoric @neutron_org @quicksilverzone @wasdergg @teamkujira @cosmos any interest in $stg? or you're specifically just interested in the layer,out_of_context,twitter_ooc,out_of_context,178.0
+My son lost $500 to a fake mint He's 16. He learned an expensive lesson.,fraud,scam_fraud2.csv,,
+Use 'passphrase' on hardware wallet Different from PIN. Extra layer.,prevention,prevent2.csv,,
+Team tokens unlocked early Chart just crashed 90% in 5 mins. Devs dumped.,fraud,scam_fraud1.csv,,
+"audit report released.the strongest audit security audit, to protect everyone's assets. transactions can be inquired, and security can be witnessed.
+📈📈📈📈📈🔥🔥🔥🔥🔥🔥
+https://t.co/2iosxewnas",prevention,twitter_prevention,prevention,2211.0
+@rob8830  utility or should i say only utility of dumping continously $cpool,fraud,twitter_fraud,fraud,274.0
+Sudden pumps without news = manipulation Likely a pump and dump group.,prevention,prevent1.csv,,
+@0x0000g i tried but it didn’t let me burn my second ash,out_of_context,twitter_ooc,out_of_context,185.0
+@impt_token i try to claim my token but say  to claim,out_of_context,twitter_ooc,out_of_context,59.0
+"perpetual starts with “the fork in the road” - an edition of 33 tokens acquired by burning the ash . https://t.co/0jktoqu16d
+
+it is about appreciating what we already have and the [struggle] of making choices.",out_of_context,twitter_ooc,out_of_context,183.0
+Fake Rarible mint Site drained my wallet after connect.,fraud,scam_fraud2.csv,,
+Save scam addresses to a blacklist My wallet flags them if I try to send.,prevention,prevent2.csv,,
+the  transfer scam /r/cryptocurrency https://t.co/5msmabz0ol https://t.co/jmbxhvbhdm,fraud,twitter_fraud,fraud,28.0
+Team tokens unlock in 1 week Mark your calendar. That's when they dump.,fraud,scam_fraud2.csv,,
+"bottom-line:
+
+if you have  approvals set for a given wallet, then in theory signing a gasless tx from a wallet should be safe
+
+is it still a bad practice we should eliminate for ""vault""-grade wallets and replace with delegated wallet signing?
+
+absolutely",prevention,twitter_prevention,prevention,7.0
+"Store seed in two different houses Fire, flood, theft - one backup survives.",prevention,prevent2.csv,,
+"High slippage = possible honeypot Set low slippage. If tx fails, red flag.",prevention,prevent1.csv,,
+"for me, sudoswap is the most charismatic thing to happen in crypto in a little while 
+- alpha hiding in plain sight: amms are known, people just wrote off nft amms. needed many clever insights to make it happen
+- small team of legends 
+- rapid growth with  incentives",out_of_context,twitter_ooc,out_of_context,218.0
+alex ryu joins the net  network (nztwork) sustainability-oriented cryptocurrency platform to help with rapid growth as a software scaling advisor https://t.co/2ncckt0yr0 #cryptolifestyle #crypto,out_of_context,twitter_ooc,out_of_context,151.0
+Check 'real volume' not 'total volume' on CoinGecko Wash trading inflates total volume.,prevention,prevent2.csv,,
+the  transfer scam https://t.co/rjvk0aqo7c #cryptocurrency,fraud,twitter_fraud,fraud,32.0
+Dev can change tax up to 99% You're one transaction from being rugged.,fraud,scam_fraud2.csv,,
+Fake LayerZero airdrop Site asks for seed phrase to 'verify eligibility'.,fraud,scam_fraud2.csv,,
+@aptoslaunchio @moverxyz @aptoslabs i have  get,out_of_context,twitter_ooc,out_of_context,118.0
+Real projects have realistic roadmaps 'Moon in 1 month' is not a roadmap. Look for actual milestones.,prevention,prevent1.csv,,
+Stored seed phrase in a password manager Master password was 'password123'. Hacked.,fraud,scam_fraud2.csv,,
+If they need to advertise on Facebook It's probably a scam. Real projects don't need Facebook ads.,fraud,scam_fraud1.csv,,
+@aptoslaunchio @aptoslabs i have  get,out_of_context,twitter_ooc,out_of_context,114.0
+Check if 'team photos' are stock images Reverse image search on Google.,prevention,prevent2.csv,,
+"@pedrogsol @wilderworld nfts on eth, and their $wild and $, followed by @bonkznft_ and @bonk_inu token on sol!",out_of_context,twitter_ooc,out_of_context,11.0
+"@kaddexofficial 4. it is crucial to notice that the apr% resulting from the staking tool creates  inflation and selling pressure. 
+
+the staking tool apr% is a long-term source of real value and potential. meaning sustainable growth and building opportunities in the future.
+
+4/x",out_of_context,twitter_ooc,out_of_context,10.0
+Cloud mining contract paid for 2 months Then stopped. Website gone. Support ghosted.,fraud,scam_fraud2.csv,,
+Altcoins are mostly scams But Bitcoin is the only one that isn't a security.,fraud,scam_fraud1.csv,,
+"teach your #family to be safe from #ticks with these age-specific educational videos from high schooler, ananya potluri, who also designed flyers, posters, and #discord servers. https://t.co/d8rth5dobd a  education &amp; awareness “healthathon” challenge winning solution. https://t.co/c6jwed1tu4",prevention,twitter_prevention,prevention,2367.0
+Stored seed phrase in a photo on phone Phone got stolen. They found the photo.,fraud,scam_fraud2.csv,,
+@krakenfx truly honest stablecoin. just like our .,out_of_context,twitter_ooc,out_of_context,108.0
+"My friend lost $50k to a ""mining pool"" It was just a website. No mining happened.",fraud,scam_fraud1.csv,,
+Opened an NFT in my wallet It had hidden approval. Drained my OpenSea assets.,fraud,scam_fraud1.csv,,
+Use '10minutemail' for one-time interactions Not for exchanges. For sketchy sites.,prevention,prevent2.csv,,
+SafePal wallet scam on App Store Fake app with same icon and name.,fraud,scam_fraud2.csv,,
+@philb_nft @0x0000g @delnft you need to have $ash and the ash  by @0x0000g to qualify. then go here https://t.co/pkgs9ugo1i connect ur wallet. it’s yours for 10 mins.,fraud,twitter_fraud,fraud,360.0
+"@chainlink all network. 
+.
+
+token still not really needed in 2023",out_of_context,twitter_ooc,out_of_context,41.0
+"@zero__tech  will ne the exange token?
+as far i can see. i need more functionality on the zero app.🙏🏾",out_of_context,twitter_ooc,out_of_context,244.0
+Did they meet past roadmap dates? Missed milestones = red flag. Real projects deliver.,prevention,prevent1.csv,,
+Paid for a sniper bot to get early entry Bot was the scam. Just took my ETH.,fraud,scam_fraud1.csv,,
+alex ryu joins the net  network (nztwork) sustainability-oriented cryptocurrency platform to help with rapid growth as a software scaling advisor https://t.co/wmqazqn9y3 #cryptocash #cryptolifestyle,out_of_context,twitter_ooc,out_of_context,150.0
+"i bought power using @irechargeng but received , @phedconnect what is going on..? this is a huge inconvenience",out_of_context,twitter_ooc,out_of_context,164.0
+"""Bitcoin doubling service"" on Telegram Send 1 BTC get 2 back? How does that math work?",fraud,scam_fraud1.csv,,
+@shytoshikusama you and the dev team holding trillions of tokens and refused to burn 🔥 . that is one of the main reason why the price is not moving.,fraud,twitter_fraud,fraud,331.0
+"@torres1pr @the_dsydr01 @totallyarugpull @riseup_finllc @shield_token @exotixtoken @tmc_mccarty @justmoonshot @cryptop81983772 you need to be holding @threeohdao run by @defiadvocacy @travistayloratx and @cryptokiddo7 and myself. a defi web3 advocacy token, angel investors, with a political super pack getting crypto friendly legislation passed. most crucial project in defi.",prevention,twitter_prevention,prevention,554.0
+"Hover over links before clicking On desktop, hover shows real URL. On mobile, long press. Verify before click.",prevention,prevent1.csv,,
+@brian_terramoon @terramoonvnture can't wait to see all the technical analysis from every layer  that gets released,out_of_context,twitter_ooc,out_of_context,240.0
+Never say 'seed phrase' out loud near devices Voice assistants could be listening.,prevention,prevent2.csv,,
+Change password immediately after any exchange breach Even if not your account.,prevention,prevent2.csv,,
+Bookmark official dApps Don't search. Don't click ads.,prevention,prevent1.csv,,
+"@dammnthatscrazy @torres1pr @totallyarugpull @riseup_finllc @shield_token @exotixtoken @tmc_mccarty @justmoonshot @cryptop81983772 @threeohdao @defiadvocacy @travistayloratx @cryptokiddo7 you’re right, i do, we all do - but while i can’t afford to invest in any, i will push for defi-defending, scam-hunting rug-destroying projects that seek to protect us all. anyone who wants to be a part of the defidefenders tag it and i believe @torres1pr and i will run a space",prevention,twitter_prevention,prevention,541.0
+Anyone remember Mt Gox? Original crypto exchange fraud. Lost 850k BTC.,fraud,scam_fraud1.csv,,
+"maybe elron should issue equity in twitter via  nfts (or sfts), securitized &amp; run on the back of a super-cheap &amp; efficient public blockchain.
+
+anyone know one? 🤔",prevention,twitter_prevention,prevention,1864.0
+@fifa22_info ive got  bro,out_of_context,twitter_ooc,out_of_context,76.0
+Wrote seed phrase on a sticky note Roommate stole it. My fault entirely.,fraud,scam_fraud1.csv,,
+"@cryptokingkeyur hey, you forgot about jaiho 😃 team hold  supply supply in market and community hands 🙌",out_of_context,twitter_ooc,out_of_context,73.0
+Tinder date wanted me to buy crypto 'I know a great platform with 20% daily',fraud,scam_fraud2.csv,,
+"i guess we're calling
+lyme disease
+a 'super bug' now...
+suppose i'm good with it;
+as long as we
+fully fund !
+
+hhs's lyme innovation initiative cs patients as morethan the targets 4 new prevention, diagnostic, treatment tools &amp; techniques;address lyme
+
+https://t.co/gkn9usluej",prevention,twitter_prevention,prevention,2280.0
+technically @muratpak could borrow owned too because they own ash  #3,fraud,twitter_fraud,fraud,357.0
+Enable 2FA - not SMS 2FA Use Google Authenticator or Authy. SMS can be SIM swapped. App-based 2FA is safer.,prevention,prevent1.csv,,
+"umami has an fdv of $22mil with  emissions &amp; &lt;63% of max supply in circulation.
+
+this is healthy.👍🏼
+
+if they managed to⬆️vaults cap to $100m by eoy, with a 10% apy,  $umami is unlikely to go below $145 due to vault demands &amp; price dynamics.
+
+https://t.co/u7s6nq45a2",out_of_context,twitter_ooc,out_of_context,212.0
+Blocks malicious ads Many scams start with Google ads.,prevention,prevent1.csv,,
